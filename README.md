@@ -1,6 +1,7 @@
 # 💫 About Me:
+<b >
 🔭 I’m currently working on ESG BRAZIL<br>🤝 I’m looking for help with MySQL and Rust languages<br>🌱 I’m currently learning MySQL<br>⚡ Fun fact: I hate locusts
-
+</b>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ruanrodriguez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ruan-rodrigues-a16750245/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rodriguezruan_) 
