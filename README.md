@@ -18,8 +18,8 @@
 <a href="https://www.hackerrank.com/ruuansantos32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ruuansantos32" height="30" width="40" /></a>
 </p>
 
-## 🚀 Minhas Skills
-
+<h3 align="center">🚀 Minhas Skills:</h3>
+<p align="center">
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -32,6 +32,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+  </p>
 <br><br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodriguezruan&show_icons=true&theme=synthwave&title_color=8e22c9&text_color=ffffff&locale=pt-br&layout=compact" alt="rodriguezruan" /></p>
