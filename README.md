@@ -82,7 +82,7 @@
 ## Github Stats  
 [![rodriguezruan](https://github-readme-stats.vercel.app/api?username=rodriguezruan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![rodriguezruan](https://github-readme-stats.vercel.app/api/top-langs/?rodriguezruan=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![rodriguezruan](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguezruan&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
