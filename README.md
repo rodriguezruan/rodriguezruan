@@ -80,9 +80,9 @@
 
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=rodriguezruan&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+[![rodriguezruan](https://github-readme-stats.vercel.app/api?username=rodriguezruan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguezruan&hide_border=true&layout=compact" align="center" /></div>  
+[![rodriguezruan](https://github-readme-stats.vercel.app/api/top-langs/?rodriguezruan=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
