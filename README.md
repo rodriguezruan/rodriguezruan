@@ -1,4 +1,8 @@
-![Gif Gatinho](https://github.com/rodriguezruan/Images/raw/main/assets/gifgatinho.gif)
+<!--![Gif Gatinho](https://github.com/rodriguezruan/Images/raw/main/assets/gifgatinho.gif)-->
+<a href="https://github.com/rodriguezruan/Images/blob/main/assets/gifgatinho.gif">
+  <img src="https://github.com/rodriguezruan/Images/raw/main/assets/gifgatinho.gif" alt="Gif Gatinho" width="800" height="200">
+</a>
+
 
 
 <h1 align="center">Hi 👋, I'm Ruan Rodrigues</h1>
