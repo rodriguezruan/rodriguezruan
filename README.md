@@ -1,3 +1,10 @@
+
+<a> href="https://github.com/rodriguezruan">
+    <img src="[gifgatinho.gif](https://github.com/rodriguezruan/Images/blob/main/assets/gifgatinho.gif)">
+
+</a>
+
+
 <h1 align="center">Hi 👋, I'm Ruan Rodrigues</h1>
 <h3 align="center">Technical Education Student at ETE FMC in Brazil, 17y</h3>
 
