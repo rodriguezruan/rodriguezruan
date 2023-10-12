@@ -1,4 +1,5 @@
-[gifgatinho.gif](https://github.com/rodriguezruan/Images/blob/main/assets/gifgatinho.gif)
+![Gif Gatinho](https://github.com/rodriguezruan/Images/raw/main/assets/gifgatinho.gif)
+
 
 <h1 align="center">Hi 👋, I'm Ruan Rodrigues</h1>
 <h3 align="center">Technical Education Student at ETE FMC in Brazil, 17y</h3>
