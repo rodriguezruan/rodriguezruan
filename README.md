@@ -1,6 +1,6 @@
 <!--![Gif Gatinho](https://github.com/rodriguezruan/Images/raw/main/assets/gifgatinho.gif)-->
 <a href="https://github.com/rodriguezruan/Images/blob/main/assets/gifgatinho.gif">
-  <img src="https://github.com/rodriguezruan/Images/raw/main/assets/gifgatinho.gif" alt="Gif Gatinho" width="800" height="200">
+  <img src="https://github.com/rodriguezruan/Images/raw/main/assets/gifgatinho.gif" alt="Gif Gatinho" width="1000" height="400">
 </a>
 
 
