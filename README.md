@@ -6,13 +6,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Ruan Rodrigues</h1>
-<h3 align="center">Technical Education Student at ETE FMC in Brazil, 17y</h3>
+<h3 align="center">Telecommunication Technic of ETEFMC, Brazil, 18y</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodriguezruan&label=Profile%20views&color=0e75b6&style=flat" alt="rodriguezruan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rodriguezruan_" target="blank"><img src="https://img.shields.io/twitter/follow/rodriguezruan_?logo=twitter&style=for-the-badge" alt="rodriguezruan_" /></a> </p>
 
-- 🔭 I’m currently searching for a internship
+- 🔭 I’m currently studing Low-Level coding for embeded systems
 
 - 🌱 I’m currently learning **MySQL and Python**
 
