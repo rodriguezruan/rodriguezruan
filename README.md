@@ -4,7 +4,6 @@
 </a>
 
 
-
 <h1 align="center">Hi 👋, I'm Ruan Rodrigues</h1>
 <h3 align="center">A passionate backend developer from Brazil,MG</h3>
 
@@ -28,6 +27,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodriguezruan&show_icons=true&locale=en&layout=compact" alt="rodriguezruan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodriguezruan&show_icons=true&theme=synthwave&title_color=8e22c9&text_color=ffffff&locale=pt-br&layout=compact" alt="rodriguezruan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodriguezruan&show_icons=true&locale=en" alt="rodriguezruan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodriguezruan&show_icons=true&theme=synthwave&title_color=6717de&text_color=ffffff&locale=en" alt="rodriguezruan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodriguezruan&theme=dark" alt="rodriguezruan" /></p>
