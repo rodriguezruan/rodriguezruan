@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/rodriguezruan_" target="blank"><img src="https://img.shields.io/twitter/follow/rodriguezruan_?logo=twitter&style=for-the-badge" alt="rodriguezruan_" /></a> </p>
 
-- 🔭 I’m currently studing Low-Level coding for embeded systems
+- 🔭 I’m currently studing Java and low-level coding for embeded systems
 
-- 🌱 I’m currently learning **MySQL and Python**
+- 🌱 I’m currently learning **Java and PostgreSQL**
 
-- 🤝 I’m looking for help with **Python/ Object Detection**
+- 🤝 I’m looking for help with **AI/Computer Vision**
 
 - 📫 How to reach me **ruuansantos32@gmail.com**
 
