@@ -3,6 +3,7 @@
   <img src="https://github.com/rodriguezruan/Images/raw/main/assets/gifmario.gif" alt="Gif Mario" width="1000" height="500">
 </a>
 
+<h1 align="center">What's Up!!! I'm Ruan Rodrigues, an Telecomunication Technician and Backend Software Developer, 20y, Brazil🇧🇷👨‍💻</h1>
 
 # 💫 About Me:
 🔭 I’m currently working on Computer Vision and ML Research<br>👯 I’m looking to collaborate on ML and DL projects<br>🤝 I’m looking for help with Cybersec/Pentest<br>🌱 I’m currently learning Embedded Machine Learning
