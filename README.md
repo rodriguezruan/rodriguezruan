@@ -10,6 +10,8 @@
 </div>
 
 # 💫 About Me:
+Software Engineering student at the National Institute of Telecommunications (INATEL). I am interested in software development, especially in the areas of back-end and databases, with experience in academic projects involving data modeling, software and hardware integration, and API development.\
+
 🔭 I’m currently working on Computer Vision and ML Research<br>👯 I’m looking to collaborate on ML and DL projects<br>🤝 I’m looking for help with Cybersec/Pentest<br>🌱 I’m currently learning Embedded Machine Learning
 
 
