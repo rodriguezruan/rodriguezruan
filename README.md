@@ -25,6 +25,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rodriguezruan/rodriguezruan/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=%09#800080&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+</div>
+
 ###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
