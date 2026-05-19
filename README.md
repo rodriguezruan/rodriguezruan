@@ -5,6 +5,10 @@
 
 <h1 align="center">What's Up!!! I'm Ruan Rodrigues, an Telecomunication Technician and Backend Software Developer, 20y, Brazil🇧🇷👨‍💻</h1>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=%09#800080&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=%09#5D3FD3"  />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on Computer Vision and ML Research<br>👯 I’m looking to collaborate on ML and DL projects<br>🤝 I’m looking for help with Cybersec/Pentest<br>🌱 I’m currently learning Embedded Machine Learning
 
