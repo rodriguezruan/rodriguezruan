@@ -30,9 +30,9 @@ Passionate about building robust backend systems and applying AI/ML to solve rea
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [VidiWaze](https://github.com/rodriguezruan) | Indoor geolocation for visually impaired — IC Research | C++, ESP32, Python, Scikit-learn |
-| [EzPoint](https://github.com/rodriguezruan) | Real-time PPE detection with computer vision | Python, YOLOv8, TensorFlow, Firestore |
-| [RetroBolsa](https://github.com/rodriguezruan) | Gamified stock market simulator with real historical data | Java 21, Spring Boot, PostgreSQL, Docker |
+| [VidiWaze](https://github.com/rodriguezruan/VidiWaze) | Indoor geolocation for visually impaired — IC Research | C++, ESP32, Python, Scikit-learn |
+| [EzPoint](https://github.com/rodriguezruan/EzPoint) | Real-time PPE detection with computer vision | Python, YOLOv8, TensorFlow, Firestore |
+| [RetroBolsa](https://github.com/rodriguezruan/retrobolsa-api) | Gamified stock market simulator with real historical data | Java 21, Spring Boot, PostgreSQL, Docker |
 
 ---
 
